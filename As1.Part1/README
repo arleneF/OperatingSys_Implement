@@ -1,0 +1,12 @@
+The executable is called a1p1.
+And the compiling instructions are:
+
+1. cd to the folder where the file is
+2. type "make" in the terminal
+3. type "./a1p1" to run the executable
+4. then the performance matrix will shown as:
+	CPU Model Name:         Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz
+	Kernel Version:         Linux version 3.13.0-107-generic (buildd@lcy01-09) (gcc version 4.8.4 (Ubuntu 4.8.4-2ubuntu1~14.04.3) ) #154-Ubuntu SMP Tue Dec 20 09:57:27 UTC 2016
+	Main Memory Total:      16340204 kB
+	Uptime:                 488.35 Seconds
+
