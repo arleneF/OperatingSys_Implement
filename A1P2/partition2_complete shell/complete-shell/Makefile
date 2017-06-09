@@ -1,9 +1,0 @@
-CC=gcc -std=c99
-CFLAGS=
-
-all:my_shell
-program: my_shell.o
-my_shell.o:my_shell.c
-
-clean: 
-	rm -f my_shell my_shell.o
