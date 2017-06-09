@@ -5,5 +5,4 @@ In total there's four Assignment, ccompleted individually.
 
 Arlene Fu
 
-//test contribution inside clone
-//again!!!! 
+//test contribution inside clone 
