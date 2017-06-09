@@ -1,0 +1,10 @@
+The executable is called my_shell.
+This is the first part of the assignment, just implement the very basic shell which supposed to support both externl and internal command (e.g. history, cd(including cd ..), pwd, exit)
+This shell also support CTRL-D to exit and disable the CTRL-C signal
+And the COMPILING instructions are:
+
+1. cd to the folder where the file is
+2. type "make" in the terminal
+3. type "./my_shell" to run the executable
+
+
