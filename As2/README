@@ -1,0 +1,28 @@
+//AUTHOR:		JIANGLIN FU 
+//EDIT DATE:		2017-03-02, 21:24
+//STUDENT ID:		888 
+//COMPUTING ID:		888
+
+//Reference: http://stackoverflow.com/questions/7506952/understanding-the-different-clocks-of-clock-gettime
+// 	     http://stackoverflow.com/questions/3523442/difference-between-clock-realtime-and-clock-monotonic
+//	     https://upvoid.com/devblog/2014/05/linux-timers/
+// 	     http://stackoverflow.com/questions/280909/cpu-affinity
+//	     https://computing.llnl.gov/tutorials/pthreads/samples/condvar.c
+//pipe read/stdin:   0  
+//pipe write/stdout: 1
+
+
+Commands to run the program :
+
+1. make
+2. ./as2
+
+
+
+
+Description : 
+
+1. this file create functions to calculate the cost of the minimal function/system call
+2. this file also find the cost of context switching between processes and also threads
+
+
